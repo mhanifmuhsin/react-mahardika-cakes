@@ -1,0 +1,33 @@
+.nav-container {
+    height: 50px;
+    background: #fff;
+}
+
+.nav-brand {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #694A1C;
+    margin-left: 80px;
+  }
+
+  .nav-home {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #333333;
+    margin-right: 80px;
+  }
+
+  .totalItem {
+    width: 25px;
+    height: 25px;
+    background: red;
+    color: aliceblue;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+  }

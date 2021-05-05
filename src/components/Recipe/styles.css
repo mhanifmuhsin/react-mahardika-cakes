@@ -1,0 +1,54 @@
+
+
+.container {
+  margin-top: 120px;
+  height: 430px;
+}
+.recipe-article h1 {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #694A1C;
+}
+
+.head-tag{
+  font-size: 16px;
+} 
+
+.recipe-article > p {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 27px;
+  color: #666666;
+}
+
+.recipe-article > button {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 19px;
+  padding: 20px 20px;
+  width: 136px;
+  height: 59px;
+  align-items: center;
+}
+
+.button-first {
+  background: #BB8432;
+  color: #FFFFFF;
+  border: none;
+}
+
+.button-second {
+  border: 1px solid #999999;
+  background: rgba(255, 255, 255, 0.01);
+  margin-left: 15px;
+}
+
+.recipe-photo-2 {
+  margin-left: 10px;
+}

@@ -1,0 +1,113 @@
+.container-detail {
+    border-top: 1px solid #CCCCCC;
+}
+
+.content-detail {
+    margin-top: 20px;
+}
+
+.main-picture {
+    margin-top: 10px;
+}
+
+.list-picture {
+    margin-top: 10px;
+}
+
+.detail-form h1 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    color: #694A1C;
+}
+
+.detail-form h5 {
+    margin-top: 20px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #333333;
+}
+
+.detail-form p {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 27px;
+    color: #666666;
+}
+
+.detail-form-body {
+    margin-top: 20px;
+}
+.detail-form-body p{
+    line-height: 10px;
+}
+
+detail-form-desc p{
+    margin-top: 50px;
+}
+
+label {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    color: #333;
+}
+
+.btn-cart {
+    margin-left: 0px;
+    width: 229px;
+    height: 49px;
+    left: 25px;
+    top: 0.5px;
+    background: #BB8432;
+    border: 1px solid #BB8432;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.label-idr {
+    margin-left: 15px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    /* identical to box height */
+    color: #694A1C;
+}
+
+.total {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    /* identical to box height */
+    color: #694A1C;
+}
+
+.jumlah {
+    margin-right: 2px;
+    width: 50px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    background: rgba(255, 255, 255, 0.01);
+    border: 1px solid #999999;
+}
+
+
+.review img{
+    
+    padding-left: 12px;
+}
+

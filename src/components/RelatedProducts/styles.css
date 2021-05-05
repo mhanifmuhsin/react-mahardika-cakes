@@ -1,0 +1,31 @@
+.container-related {
+    margin: 10px 90px;
+}
+
+.content-related{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.title-content {
+    margin-right: 700px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    /* identical to box height */
+    color: #694A1C;
+}
+
+.list-content {
+    margin-top: 20px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    text-align: right;
+    color: #BB8432;
+}

@@ -1,0 +1,99 @@
+.hr {
+    margin-top: 70px;
+    border-top: 1px solid #BB8432;
+}
+
+.container-footer {
+    margin: 100px 90px;
+}
+
+.content-footer {
+    margin-top: 100px;
+}
+
+.footer-about h5 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 41px;
+    color: #694A1C;
+}
+
+.footer-about p {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: #333333;
+}
+
+.footer-channel h5 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    color: #694A1C;
+}
+
+.footer-contact h5 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    color: #694A1C;
+}
+
+.footer-contact p {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 36px;
+    color: #333333;
+}
+
+.footer-operational h5 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    color: #694A1C;
+}
+
+.footer-operational p {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 27px;
+    color: #333333;
+}
+
+.footer-follow p{
+    margin-left: 15px;
+}
+
+.footer-img img{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.channel-contact img{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.channel-pay1 img{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.channel-pay2 img{
+    margin-left: 5px;
+    margin-right: 5px;
+}

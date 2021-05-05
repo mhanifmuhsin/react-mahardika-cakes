@@ -1,0 +1,56 @@
+.container-fluid {
+    margin-top: 80px;
+    height: 680px;
+}
+
+.category-1 {
+    background-image: url('../../images/category-1.svg');
+    background-size: cover;
+}
+
+.category-2 {
+    background-image: url('../../images/category-2.svg');
+    background-size: cover;
+}
+
+.category-3 {
+    background-image: url('../../images/category-3.svg');
+    background-size: cover;
+}
+
+.content-recipe{
+    margin-top: 220px;
+}
+
+.content-recipe>h1 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.content-recipe>p {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.content-recipe>button {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    width: 129px;
+    height: 39px;
+    left: 115.5px;
+    top: 184px;
+    background: #BB8432;
+    color: #FFFFFF;
+    border: none;
+}

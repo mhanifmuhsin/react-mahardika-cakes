@@ -1,0 +1,22 @@
+.container-pricing {
+    height: 650px;
+    margin: 10px 90px;
+}
+
+.pricing-title {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1px;
+    color: #333333;
+}
+
+.pricing-price {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 5px;
+    color: #333333;
+}

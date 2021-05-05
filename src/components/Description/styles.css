@@ -1,0 +1,23 @@
+.container-description {
+    margin-top: 50px;
+    margin-right: 71px;
+    margin-left: 71px;
+    height: 240px;
+}
+
+.content-head {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 64px;
+    color: #694A1C;
+}
+
+.content-desc {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 40px;
+}
